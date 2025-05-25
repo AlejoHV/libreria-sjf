@@ -1,7 +1,8 @@
-#include <jni.h>
 #include "libsjf_AlgoritmoJNI.h"
+#include <jni.h>
 #include <stdio.h>
 #include <stdlib.h>
+
 
 typedef struct {
     int id;
